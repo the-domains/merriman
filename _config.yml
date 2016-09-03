@@ -1,19 +1,4 @@
-name: merriman
-favicon: null
-layout_spectrum: 0.8630321826785803
 typography_spectrum: 0.09156244224868715
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.622361941030249
   saturation: 0.43969827238470316
   rhythmicContrast: 0.7616613933350891
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8630321826785803
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: merriman
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Let's make you look good
 purpose: []
